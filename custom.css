@@ -4,6 +4,7 @@ p {
 
 body {
     background-color: violet;
+    cursor: url('Design ohne Titel.png'), auto;
 }
 
 .navbar {
@@ -27,4 +28,5 @@ li {
 a {
     text-decoration: none;
     font-size: larger;
+    cursor: url('Design ohne Titel.png'), auto;
 }
