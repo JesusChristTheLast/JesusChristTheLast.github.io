@@ -19,3 +19,8 @@ body {
 .navbar a:hover {           
     font-weight: bold;
 }
+
+li {
+    list-style-type: none;
+    font-size: 25px;
+}
