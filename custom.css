@@ -1,0 +1,21 @@
+p {
+    font-size: larger;
+}
+
+body {
+    background-color: violet;
+}
+
+.navbar {
+    background-color: blueviolet;
+    font-size: larger;
+    border-radius: 25px;
+}
+
+.navbar a {           
+    text-decoration: none;    
+}
+
+.navbar a:hover {           
+    font-weight: bold;
+}
